@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    line-height: 2;
+    width: 90vw;
+    padding: 5px;
+    margin: 2em;
+}
+header {
+    padding: 2em;
+    font-family: sans-serif;
+
+    h1 {
+        color: rgb(4, 158, 185);
+        font-size: 4em;
+    }
+
+    ul li {
+        color: #333;
+        font-weight: 600;
+        font-size: 1.6em;
+    }
+}
+
+.section{
+    margin: 40px auto;
+    font-size: 1.6em;
+}
+
+
+#box {
+    height: 300px;
+    width: 300px;
+    background: #dc143c;
+}
+
+@import 'mobile';
+

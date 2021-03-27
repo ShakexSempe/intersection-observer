@@ -1,0 +1,17 @@
+@media(max-width:500px){
+header {
+    padding: 1em;
+
+    h1 {
+        color: red;
+        font-size: 3em;
+        padding-bottom: 30px;
+    }
+
+    ul li {
+        color: #333;
+        font-weight: 600;
+        font-size: 1.4em;
+    }
+}
+}
