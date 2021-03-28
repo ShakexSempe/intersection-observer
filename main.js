@@ -17,7 +17,8 @@ const observer = new IntersectionObserver(callbackFunction, {
 });
 
 observer.observe(box);
-
+//observer.disconnect(box)
+//observer.unobserve(box)
 
 
 //NB properties of the IO: 
