@@ -26,17 +26,17 @@ header {
     }
 }
 
-.section{
-    margin: 40px auto;
-    font-size: 1.6em;
-}
+    .section {
+        margin: 40px auto;
+        font-size: 1.6em;
+    }
 
 
-#box {
-    height: 300px;
-    width: 300px;
-    background: #dc143c;
-}
+    #box {
+        height: 300px;
+        width: 300px;
+        background: #dc143c;
+    }
 
 @import 'mobile';
 
